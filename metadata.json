@@ -1,0 +1,8 @@
+
+{
+  "name": "AlphaPunch - Window & Background Extractor",
+  "description": "A professional-grade image tool that uses Gemini to 'punch out' backgrounds or window views into high-quality transparent PNGs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
